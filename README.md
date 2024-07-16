@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -74,3 +75,6 @@ bun run preview
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 «# test-github»
+=======
+# WeatherForecast
+>>>>>>> 174f5a988d2d4bdf8415fb417e5252103644de7c
