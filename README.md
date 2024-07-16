@@ -1,3 +1,8 @@
+Запускается через runscript:dev
+![image](https://github.com/user-attachments/assets/6345d642-ef65-43da-8b8f-7b3d435e860a)
+Далее ввод города и нажатие на кнопку
+![image](https://github.com/user-attachments/assets/2b10af61-8584-442b-9835-4554db3bc322)
+
 <<<<<<< HEAD
 # Nuxt 3 Minimal Starter
 
